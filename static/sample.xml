@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+    <header>
+        <tabTitle>Наука GPT</tabTitle>
+        <description>Страница с задачами для школьников по математике и другим предметам.</description>
+    </header>
+    <selection>
+        <topic>школьные задачи вм</topic>
+        <subject>Математика</subject>
+    </selection>
+    <content>
+        <task>
+            <id>1</id>
+            <question>Решите уравнение: 2x + 5 = 15.</question>
+            <level>Начальный</level>
+            <solution>Ответ: x = 5.</solution>
+        </task>
+        <task>
+            <id>2</id>
+            <question>Найдите площадь прямоугольника с длиной 8 см и шириной 5 см.</question>
+            <level>Средний</level>
+            <solution>Площадь = 8 * 5 = 40 см².</solution>
+        </task>
+    </content>
+</page>
