@@ -79,5 +79,4 @@ def validate_xml(file):
         parser.parse(file)
         return validator.valid
     except xml.sax.SAXException:
-        print(f"XML Validation Error: {str(e)}")  # Логирование ошибки
         return False
